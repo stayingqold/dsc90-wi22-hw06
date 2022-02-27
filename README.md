@@ -18,4 +18,4 @@ This shows the relationship between a child's height and their parents height, s
 ## Question 3
 <iframe src='https://stayingqold.github.io/dsc90-wi22-hw06/france_fig.html' width=800 height=600 frameBorder=0></iframe>
 <br>
-TODO: If this was working properly, it would show the population density of each French department. Also todo: answer the question: "Try and find the "Paris" department. Is it the most populated department? Is it the most densely populated department?"
+This shows the population density of each French department. No, Nord is the most densely populated department. 
